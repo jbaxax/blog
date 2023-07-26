@@ -8,4 +8,10 @@ Un blog de practica.
 
 ###### sadasdadasdadasdasdas
 
+<<<<<<< HEAD
 * creado por 
+=======
+* creado por
+* aea
+*otro aea
+>>>>>>> readme-mejorado
